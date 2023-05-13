@@ -25,3 +25,7 @@
 - `git checkout -- initial_commit.md `
 
 - `git restore`
+
+- `git clean -df`
+
+- `git clean -dn`
