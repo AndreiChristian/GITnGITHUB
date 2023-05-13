@@ -21,3 +21,5 @@
 - `git switch -c <branch-name>`
 
 - `git ls-files`
+
+- `git checkout -- initial_commit.md `
