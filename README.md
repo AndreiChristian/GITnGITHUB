@@ -23,3 +23,5 @@
 - `git ls-files`
 
 - `git checkout -- initial_commit.md `
+
+- `git restore`
