@@ -19,3 +19,5 @@
 - `git switch <branch-name>`
 
 - `git switch -c <branch-name>`
+
+- `git ls-files`
