@@ -1,6 +1,6 @@
 # Git & GitHub Learning Guide
 
-This guide covers the basic commands and operations in Git, a powerful version control system.
+This guide covers the basic commands and operations in Git, a powerful version control system!
 
 ## Git Basics
 
