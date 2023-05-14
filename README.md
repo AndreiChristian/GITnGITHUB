@@ -53,3 +53,4 @@ This guide covers the basic commands and operations in Git, a powerful version c
 - `git clean -df`: This command removes untracked files from the working tree. The `-d` option tells Git to remove untracked directories as well, and the `-f` (force) option makes Git perform this action even if the "clean.requireForce" configuration option is set to true.
 
 - `git clean -dn`: This command shows what would be done by `git clean -df`. The `-n` (dry run) option makes Git only show what would be done, without actually doing it.
+
